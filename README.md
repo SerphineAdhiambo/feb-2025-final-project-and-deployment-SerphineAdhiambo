@@ -1,25 +1,25 @@
-# Final Project and Deployment
+# My Blog Website - Final Project
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+## 🔥 Description
+This is a responsive blog website built as my final project. It shares my coding journey, including challenges, milestones, and projects.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🌐 Live Demo
+[Click to view live site](https://your-username.github.io/MyBlogProject/)
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📁 Technologies Used
+- HTML5
+- CSS3 (Responsive Design)
+- JavaScript (Interactivity)
+- Git & GitHub for version control
 
-## Tasks
+## 💻 Features
+- Fully responsive design
+- Interactive "Read More" button
+- Full-screen background image
+- Navigation across pages (Home, About, Contact)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## 📷 Preview
+![Screenshot](images/blog1.png)
 
-Good luck and happy coding! 🚀💻
+## 🧠 Author
+Serphne Adhiambo
