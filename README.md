@@ -22,4 +22,4 @@ This is a responsive blog website built as my final project. It shares my coding
 ![Screenshot](images/blog1.png)
 
 ## 🧠 Author
-Serphne Adhiambo
+Serphine Adhiambo
