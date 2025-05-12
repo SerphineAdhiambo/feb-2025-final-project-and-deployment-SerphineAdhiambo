@@ -4,7 +4,7 @@
 This is a responsive blog website built as my final project. It shares my coding journey, including challenges, milestones, and projects.
 
 ## 🌐 Live Demo
-[Click to view live site](https://your-username.github.io/MyBlogProject/)
+[Click to view live site](https://serphineadhiambo.github.io/feb-2025-final-project-and-deployment-SerphineAdhiambo/)
 
 ## 📁 Technologies Used
 - HTML5
